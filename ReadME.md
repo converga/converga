@@ -37,7 +37,7 @@
 </table>
 
 # Сертификаты:
- - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/converga/blob/main/Дроздецкий%20Артем%20Вячеславович_20222DS00247.pdf)/[EN](https://github.com/converga/blob/main/Drozdetskiy%20Artyom_20222DS00247.pdf)
+ - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/converga/converga/blob/1.2/drozdetskiy_ds_27_ru.pdf)/[EN](https://github.com/converga/converga/blob/1.2/drozdetskiy_ds_27_en.pdf)
  - Coursera: Python Data Structures [link](https://www.coursera.org/account/accomplishments/certificate/3K62QH8RQ2JL)
 
 # Курсы:
