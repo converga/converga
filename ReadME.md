@@ -1,6 +1,6 @@
 
 # Мое резюме:
- - [Резюме]()
+ - [Резюме](https://hh.ru/applicant/resumes/view?resume=6e5655fdff0b787fcc0039ed1f366f6b317141)
 
 # Опыт работы:
 <table>
